@@ -2,15 +2,6 @@
 
 Libft, temel C kütüphanelerinin işlevselliğini yeniden oluşturan ve sıklıkla kullanılan yardımcı fonksiyonları içeren bir kütüphanedir. Bu kütüphane, C dilinde yazılım geliştirirken ihtiyacınız olan bazı temel işlevleri sağlar ve 42 okulunun yazılım geliştirme projelerinde kullanım için tasarlanmıştır.
 
-## İçindekiler
-
-- [Kurulum](#kurulum)
-- [Fonksiyonlar](#fonksiyonlar)
-- [Kullanım](#kullanım)
-- [Testler](#testler)
-- [Katkı](#katkı)
-- [Lisans](#lisans)
-
 ## Fonksiyonlar
 Libft, çeşitli yardımcı fonksiyonlar içerir. Bunlardan bazıları:
 
